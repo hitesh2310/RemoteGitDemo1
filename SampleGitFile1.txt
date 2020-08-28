@@ -1,5 +1,9 @@
 HELLO WORLD!!!
 
+<<<<<<< HEAD
 
 Local Change
 Hitesh 
+=======
+GIT Change
+>>>>>>> 618081515298c21ee15fff7b9405a53eae00f9be
