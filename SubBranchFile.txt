@@ -1,1 +1,6 @@
 This is sub branch file
+
+Changes to check master branch  : branch-master
+
+Changes to check NewSubBranch branch  : branch-NewSubBranch
+ 
